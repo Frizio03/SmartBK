@@ -6,8 +6,6 @@ Comprendere e realizzare in semplice un applicativo su diversi livelli (software
 
 ## Istruzioni di avvio
 
-Dopo aver avviato XAMPP e creato un DB nominato "test"
-
     $ pip install termcolor
     $ pip install Faker
     $ pip install time
