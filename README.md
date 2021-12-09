@@ -22,13 +22,13 @@ Comprendere e realizzare in semplice un applicativo su diversi livelli (software
 ## Creators
 
 **Fabrizio Tedeschi**, Classe 5FS
-> Stesura codice delle varie funzioni che utilizza il programma. Ottimizzazione
+> Stesura codice delle varie funzioni che utilizza il programma. Gestione consensi utente e livelli di accesso tramite psw. Ottimizzazione.
 
 **Alex Foderaro**, Classe 5FS
 > Unione del codice in un unico programma e import delle funzioni. Struttura menu del programma.
 
 **Gianluca Ghinazzi**, Classe 5FS
-> Gestione della grafica, dei colori e delle funzioni di print().
+> Gestione della grafica, dei colori e delle funzioni di print(). Sviluppo generatore password.
 
 ## Linguaggi utilizzati
-Python 3
+Python 3, csv
