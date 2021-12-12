@@ -31,4 +31,4 @@ Comprendere e realizzare in semplice un applicativo su diversi livelli (software
 > Gestione della grafica, dei colori e delle funzioni di print(). Sviluppo generatore password.
 
 ## Linguaggi utilizzati
-Python 3, csv
+Python 3, CSV
